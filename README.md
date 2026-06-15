@@ -33,8 +33,16 @@ O Google Colab foi usado para fazer o modelo teste.
 
 # Fluxograma
 
-![Fluxograma](Fluxograma_GoodCharge.drawio.png)
+![Fluxograma](Fluxograma_GoodCharge.drawio.png) 
+
+# Modelo Final 
+
+https://colab.research.google.com/drive/1sdJAWpYEzFZNSNDrnJJp23DSl-9LsN8o?usp=sharing 
 
 # Modelo de Teste
 
 https://colab.research.google.com/drive/1qYC9qGgdmIeXw6Agd3nHmMtVymeMBIB7?usp=sharing 
+
+# Vídeo testes 
+
+https://youtu.be/_NHyBWMqSGA 
