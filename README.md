@@ -19,6 +19,8 @@ O nosso projeto propõe um chatbot inteligente para auxiliar síndicos e morador
 - Alertas de falhas técnicas
 - Histórico de conversa
 - Respostas contextualizadas para o cenário
+- Testes de segurança
+- Proteção contra tentativas de Prompt Injection
 
 # Tecnologias Utilizadas
 
@@ -75,6 +77,10 @@ Não é possivel, poisele já está reservadoaté às 18h.
 # Fluxograma
 
 ![Fluxograma](Fluxograma_GoodCharge.drawio.png) 
+
+# Agent Modelo 
+
+https://colab.research.google.com/drive/1K9HH_8OrJIZOVTua5ekDS9oa-dmTMwgd?usp=sharing 
 
 # Modelo Final 
 
