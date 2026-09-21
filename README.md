@@ -28,6 +28,12 @@ Google Colab
 
 OpenAI API 
 
+OpenAI Agents SDK
+
+SQLiteSession
+
+Function Tools
+
 Python 
 
 Draw.io: Fluxograma 
