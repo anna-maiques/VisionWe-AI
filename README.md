@@ -71,7 +71,7 @@ O nosso projeto utiliza o recurso Google Colab Secrets para acessar a variável:
 
 # Relatório de evolução
 
-
+[📄 Acessar o Relatório de Evolução](Relatorio_evolucao.pdf)
 
 # Exemplo de Uso
 
