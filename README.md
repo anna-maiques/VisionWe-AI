@@ -42,14 +42,17 @@ YouTube
 
 # Tecnologia IA utilizada:
 
-A OpenAI API foi escolhida por causa da sua capacidade de compreender linguagem natural e gerar respostas contextualizadas. 
-O Google Colab foi usado para criar, testar e executar o chatbot.
+A OpenAI API foi utilizada para fornecer os modelos de linguagem do chatbot. No projeto foi atualizado para utilizar o OpenAI Agents SDK, que organiza o funcionamento do agente e permite utilizar recursos como Agent, Runner, memória por sessão e Function Tools.
+O Google Colab foi utilizado para criar, testar e executar o chatbot, no qual foram utilizados dois modelos diferentes durante os testes: "gpt-4o-mini" e "gpt-5-nano"
 
-# Melhorias da Sprint 2
+A comparação entre os modelos foi realizada utilizando o mesmo conjunto de testes.
 
-* Implementação de memória de conversa utilizando histórico de mensagens.
-* Utilização de System Prompt, Few-Shot prompting e histórico de conversa.
-* Testes realizados com os casos definidos na Sprint 1.
+# Melhorias da Sprint 3
+
+Na Sprint 2, o histórico da conversa era controlado manualmente por meio de uma lista de mensagens. Na Sprint 3, o projeto passou a utilizar o 'OpenAI Agents SDK', com memória gerenciada por sessão utilizando 'SQLiteSession'.
+Também foram adicionadas 'Function Tools' para organizar as funções do chatbot, como: consulta de consumo, consulta de cobrança, consulta de carregadores, reserva de carregadores, consulta de falhas.
+A função de reserva também foi modificada para permitir que o usuário informe o número do carregador e o horário desejado.
+Além disso, foram adicionados testes de segurança, incluindo testes de Prompt Injection, perguntas fora do contexto, perguntas sobre especificações técnicas não disponíveis, questões jurídicas, financeiras e de segurança elétrica.
 
 # Como Executar o Projeto
 
@@ -65,6 +68,10 @@ A chave da OpenAI não deve ser armazenada diretamente no código.
 
 O nosso projeto utiliza o recurso Google Colab Secrets para acessar a variável:
 "OPENAI_API_KEY". Dessa forma, a chave permanece protegida e não é exposta no repositório.
+
+# Relatório de evolução
+
+
 
 # Exemplo de Uso
 
