@@ -1,6 +1,5 @@
 # Integrantes: 
 - Anna Cecilia Guimarães Maiques Lima de Carvalho -RM: 570955
-- Caio Eguia Ceschini -RM: 573847
 - Gabriel Henrique S. de Melo Rodrigues - RM: 573093
 - Fernando Bonfim Hoefle - RM: 569920
 - Arthur de Oliveira Carvalho - RM: 573499
