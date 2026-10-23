@@ -53,6 +53,11 @@ Também foram adicionadas 'Function Tools' para organizar as funções do chatbo
 A função de reserva também foi modificada para permitir que o usuário informe o número do carregador e o horário desejado.
 Além disso, foram adicionados testes de segurança, incluindo testes de Prompt Injection, perguntas fora do contexto, perguntas sobre especificações técnicas não disponíveis, questões jurídicas, financeiras e de segurança elétrica.
 
+# Melhorias da Sprint 4
+
+Na Sprint 4, foi desenvolvido um processo de avaliação automática para comparar os modelos `gpt-4o-mini` e `gpt-5-nano`. Para isso, foi criado um Golden Dataset com nove casos de teste, avaliados por meio da abordagem LLM-as-a-Judge, considerando correção, adequação ao escopo, fidelidade às informações e segurança.
+Nos testes realizados, o `gpt-4o-mini` obteve média de 8,00 pontos em 8, com latência média de 2,02 segundos, enquanto o `gpt-5-nano` obteve 7,56 pontos, com latência média de 7,80 segundos. O processo permitiu comparar o desempenho dos modelos e identificar pontos que precisam de melhoria, como o tratamento de perguntas fora do escopo do chatbot.
+
 # Como Executar o Projeto
 
 1. Abrir o notebook no Google Colab.
