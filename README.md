@@ -73,9 +73,11 @@ A chave da OpenAI não deve ser armazenada diretamente no código.
 O nosso projeto utiliza o recurso Google Colab Secrets para acessar a variável:
 "OPENAI_API_KEY". Dessa forma, a chave permanece protegida e não é exposta no repositório.
 
-# Relatório de evolução
+# Relatórios:
 
-[📄 Acessar o Relatório de Evolução](Relatorio_evolucao.pdf)
+[ Acessar o Relatório de Evolução](Relatorio_evolucao.pdf)
+
+[ Acessar o Relatótio S4] 
 
 # Exemplo de Uso
 
@@ -95,17 +97,23 @@ Não é possivel, poisele já está reservadoaté às 18h.
 
 ![Fluxograma](Fluxograma_GoodCharge.drawio.png) 
 
-# Agent Modelo 
+# Notebooks: 
+
+## Agent Modelo 
 
 https://colab.research.google.com/drive/1K9HH_8OrJIZOVTua5ekDS9oa-dmTMwgd?usp=sharing 
 
-# Modelo Final 
+## Modelo Final 
 
 https://colab.research.google.com/drive/1sdJAWpYEzFZNSNDrnJJp23DSl-9LsN8o?usp=sharing 
 
-# Modelo de Teste
+## Modelo de Teste
 
 https://colab.research.google.com/drive/1qYC9qGgdmIeXw6Agd3nHmMtVymeMBIB7?usp=sharing 
+
+## Modelo S4
+
+https://colab.research.google.com/drive/1p5WMvusUO-YBwJTMvxw9Xj34cQUpEEXp?usp=sharing 
 
 # Vídeo testes 
 
