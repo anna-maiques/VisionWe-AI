@@ -77,7 +77,7 @@ O nosso projeto utiliza o recurso Google Colab Secrets para acessar a variável:
 
 [ Acessar o Relatório de Evolução](Relatorio_evolucao.pdf)
 
-[ Acessar o Relatótio S4] 
+[ Acessar o Relatótio S4](Relatorio_S4.pdf)
 
 # Exemplo de Uso
 
